@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "813469238102",
+    "firebase_url": "https://low-power-firebase.firebaseio.com",
+    "project_id": "low-power-firebase",
+    "storage_bucket": "low-power-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813469238102:android:722c082a6920a35e",
+        "android_client_info": {
+          "package_name": "com.example.maitrichattopadhyay.lowpower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813469238102-e6jo08qassupe55hb7577amrhj9f42te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SaqRaasYD8y8-t_Lc4sREaALWNkOH1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

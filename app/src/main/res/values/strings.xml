@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lowPower</string>
+    <string name="history">history</string>
+    <string name="info">Info</string>
+
+    <string name="page_three">Page three</string>
+
+
+</resources>
